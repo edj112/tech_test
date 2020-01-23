@@ -1,4 +1,4 @@
-# Verisart Coding Test
+# Student Coding Test
 
 This coding test is about using standard Go/Python routines to parse a Merkle path embedded in a json file. A Merkle 
 path consists of a series of cryptographic operations, applied to an initial `message`. Each operation has an `Operator` and
